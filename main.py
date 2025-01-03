@@ -43,7 +43,7 @@ def speak(text):
    
 
 # # Set your Eleven Labs API key
-# os.environ["ELEVEN_API_KEY"] = "sk_01274f2f77870c69e98ad93f8b0c228878e686b68ea7a668"
+# os.environ["ELEVEN_API_KEY"] = "Your api key"
 
 # # Initialize ElevenLabs API with your API key
 # elevenlabs = ElevenLabs(api_key=os.getenv("ELEVEN_API_KEY"))
